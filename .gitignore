@@ -1,0 +1,4 @@
+/Cuenta lineas/nbproject/private/
+
+#Ignora todos los archivos en el directorio target en los proyectos creados con maven
+target/
